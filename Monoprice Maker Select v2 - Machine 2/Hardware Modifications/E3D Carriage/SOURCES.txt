@@ -1,0 +1,5 @@
+Sources for Wanhao Duplicator I3 Bowden Extruder for E3D V6 / Clone
+
+E3D v6 Bowden extruder for Wanhao Duplicator i3 (http://www.thingiverse.com/thing:1483921)
+E3Dv6 Bowden X-carriage mount v2 for Prusa i3 (http://www.thingiverse.com/thing:1632847)
+Bowden tube wire clip (http://www.thingiverse.com/thing:661426)
